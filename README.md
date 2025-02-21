@@ -2,5 +2,5 @@
 
 ## pre-requisite
 
-- `python3 --version`
-- `pip3 --version`
+- test command : `python3 -m unittest discover`
+
