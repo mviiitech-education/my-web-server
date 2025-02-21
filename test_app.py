@@ -1,5 +1,7 @@
 import unittest
-from app import app, add
+
+def add(a,b):
+    return a +b
 
 class FlaskTestCase(unittest.TestCase):
 
